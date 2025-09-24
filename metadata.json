@@ -1,0 +1,5 @@
+{
+  "name": "Reservation Slot Monitor ver2",
+  "description": "ウェブ予約システムの空き状況を監視するアプリケーション。ユーザー定義の条件に基づいて空き枠を定期的に確認し、条件に合致した場合に通知を送信します。",
+  "requestFramePermissions": []
+}
